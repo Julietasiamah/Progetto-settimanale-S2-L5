@@ -172,3 +172,7 @@ console.log (numericArray)
     es. [f, b, e] --> [6, 2, 5]
 */
 const charactersArray = ['g', 'n', 'u', 'z', 'd']
+
+function (char) {
+  switch 
+}
